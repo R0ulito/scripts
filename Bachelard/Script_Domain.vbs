@@ -9,7 +9,7 @@ Const DEFERRED_SPN_SET = 256
 Const INSTALL_INVOCATION = 262144 
   
 strDomain = "bachelard.local" 
-strPassword = "admin@lgbt77" 
+strPassword = "whatdidyouexpect?" 
 strUser = "administrateur" 
   
 Set objNetwork = CreateObject("WScript.Network") 
